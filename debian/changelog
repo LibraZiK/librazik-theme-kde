@@ -1,0 +1,9 @@
+librazik-theme-kde (3.00) buster; urgency=medium
+
+  * Reconstruction avec pbuilder pour LibraZiK-3.
+    - look-and-feel: thème global pour KDE Plasma permettant de retourner
+      facilement au thème global en cas de modifications de l'utilisateur.
+    - desktoptheme: thème des panneaux, des composants graphiques, fond d'écran
+      et icône de lanceur.
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Mon, 28 Sep 2020 18:36:57 +0200

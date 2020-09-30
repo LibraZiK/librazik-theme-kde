@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Plasma look and feel for Librazik3
+Comment[fr]=Thème et disposition pour Librazik3
+Name=Librazik3
+X-KDE-PluginInfo-Author=Mathieu PICOT
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=picotmathieu@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=Librazik3
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://librazik.tuxfamily.org
+X-KDE-ServiceTypes=Plasma/LookAndFeel
