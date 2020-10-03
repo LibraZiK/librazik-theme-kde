@@ -1,3 +1,10 @@
+librazik-theme-kde (3.01) buster; urgency=medium
+
+  * Reconstruction avec pbuilder pour LibraZiK-3.
+    - améliorations.
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Sat, 03 Oct 2020 16:06:36 +0200
+
 librazik-theme-kde (3.00) buster; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-3.
