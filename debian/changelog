@@ -1,3 +1,9 @@
+librazik-theme-kde (4.00) buster; urgency=medium
+
+  * changement des noms et fonds d'écran de librazik3 à librazik4.
+  
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  thu, 06 Jan 2022 23:23:36 +0200
+
 librazik-theme-kde (3.01) buster; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-3.
