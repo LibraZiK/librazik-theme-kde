@@ -13,7 +13,7 @@ librazik-theme-kde (4.01) bullseye; urgency=medium
   * debian/copyright :
       + passage à 2022.
 
- -- Olivier Humbert <trebmuh@tuxfamily.org>  fri, 07 Jan 2022 23:43:00 +0200
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Fri, 07 Jan 2022 23:43:00 +0200
 
 librazik-theme-kde (3.01) buster; urgency=medium
 
