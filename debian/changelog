@@ -1,8 +1,19 @@
-librazik-theme-kde (4.00) buster; urgency=medium
+librazik-theme-kde (4.01) buster; urgency=medium
 
-  * changement des noms et fonds d'écran de librazik3 à librazik4.
-  
- -- Olivier Humbert <trebmuh@tuxfamily.org>  thu, 06 Jan 2022 23:23:36 +0200
+  * Reconstruction avec pbuilder pour LibraZiK-4.
+    - changement des noms et fonds d'écran de LZK-3 pour LZK-4.
+  * debian/compat :
+    - suppression du fichier (inutile avec dh 13).
+  * debian/control :
+    - dépendances de construction :
+      + passage de "debhelper (>= 12)" à "debhelper-compat (= 13).
+    - description :
+      + mise à jour du lien vers la documentation.
+      + passage à 2022.
+  * debian/copyright :
+      + passage à 2022.
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  fri, 07 Jan 2022 23:43:00 +0200
 
 librazik-theme-kde (3.01) buster; urgency=medium
 

@@ -4,16 +4,16 @@ Priority: optional
 Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
 Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
 Standards-Version: 4.3.0
-Build-Depends: debhelper (>= 12)
+Build-Depends: debhelper (= 13)
 Homepage: https://librazik.tuxfamily.org/
 
 Package: librazik-theme-kde
 Architecture: all
 Depends:
  ${misc:Depends}
-Description: LibraZiK 3 - KDE Plasma theme
- This package contains the LibraZiK 3 theme for KDE Plasma desktop.
+Description: LibraZiK-4 - KDE Plasma theme
+ This package contains the LibraZiK 4 theme for KDE Plasma desktop.
  .
- Documentation page : https://librazik.tuxfamily.org/doc3/paquets
+ Documentation page : https://librazik.tuxfamily.org/doc4/paquets
  .
- LibraZiK audio studio package 2020 ©
+ LibraZiK audio studio package 2022 ©

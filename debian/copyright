@@ -3,12 +3,12 @@ Upstream-Contact: Mathieu Picot <picotmathieu@gmail.com>
 Source: https://librazik.tuxfamily.org
 
 Files: *
-Copyright: 2020 Mathieu Picot <picotmathieu@gmail.com>
+Copyright: 2020-2022 Mathieu Picot <picotmathieu@gmail.com>
 License: GPL-3
 
 Files: debian/*
 Copyright:
- 2020 Olivier Humbert <trebmuh@tuxfamily.org>
+ 2020-2022 Olivier Humbert <trebmuh@tuxfamily.org>
  2020 Mathieu Picot <picotmathieu@gmail.com>
 License: GPL-3
 
