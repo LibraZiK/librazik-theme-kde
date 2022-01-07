@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Équipe LibraZiK <librazik@tuxfamily.org>
 Uploaders: Olivier Humbert <trebmuh@tuxfamily.org>
 Standards-Version: 4.3.0
-Build-Depends: debhelper (= 13)
+Build-Depends: debhelper-compat (= 13)
 Homepage: https://librazik.tuxfamily.org/
 
 Package: librazik-theme-kde
