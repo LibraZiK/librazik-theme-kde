@@ -1,4 +1,4 @@
-librazik-theme-kde (4.01) buster; urgency=medium
+librazik-theme-kde (4.01) bullseye; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-4.
     - changement des noms et fonds d'écran de LZK-3 pour LZK-4.
