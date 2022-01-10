@@ -62,7 +62,7 @@ Image {
 
         Image {
             id: score_blue
-            source: "images/LZK3_score_blue.svg"
+            source: "images/LZK_score_blue.svg"
             x: (root.width / 2) - 255
             y: (root.height /2) - 74
         }
@@ -71,7 +71,7 @@ Image {
             id: score
             fillMode : Image.Tile
             horizontalAlignment: Image.AlignLeft
-            source: "images/LZK3_score.svg"
+            source: "images/LZK_score.svg"
             x: (root.width / 2) - 255
             y: (root.height / 2) - 74
             width: (sourceSize.width / 6) * (stage - 0.01)
@@ -85,14 +85,14 @@ Image {
         
         Image {
             id: logo
-            source: "images/LZK3_top.svg"
+            source: "images/LZK_top.svg"
             x: (root.width /2) - 255
             y: (root.height /2) - 74
         }
         
         Image {
             id: logo_blue
-            source: "images/LZK3_top_blue.svg"
+            source: "images/LZK_top_blue.svg"
             opacity: 0.65
             fillMode : Image.Tile
             horizontalAlignment: Image.AlignLeft
