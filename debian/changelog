@@ -1,3 +1,10 @@
+librazik-theme-kde (4.02) bullseye; urgency=medium
+
+  * Reconstruction avec pbuilder pour LibraZiK-4.
+    - adaptation de l'écran de démarrage pour LZK-4.
+
+ -- Olivier Humbert <trebmuh@tuxfamily.org>  Sat, 15 Jan 2022 15:21:00 +0200
+
 librazik-theme-kde (4.01) bullseye; urgency=medium
 
   * Reconstruction avec pbuilder pour LibraZiK-4.
